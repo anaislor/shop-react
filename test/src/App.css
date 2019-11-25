@@ -1,0 +1,8 @@
+.pagination {
+  display: flex;
+  flex-flow: row wrap;
+}
+
+#mainNav a {
+  margin: 20px;
+}
